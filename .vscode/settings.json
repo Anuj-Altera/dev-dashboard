@@ -1,0 +1,22 @@
+{
+    "intersystems.servers": {
+        "azupfmsevserver": {
+            "webServer": {
+                "scheme": "http",
+                "host": "azupfmdevserver",
+                "port": 52773
+            },
+            "description": "AZURE IRIS SERVER",
+            "username": "kraj"
+        },
+        "azupfmdevserver": {
+            "webServer": {
+                "scheme": "http",
+                "host": "azupfmdevserver",
+                "port": 52773
+            },
+            "description": "AZURE SERVER IRIS",
+            "username": "kraj"
+        }
+    }
+}
